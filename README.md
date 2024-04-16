@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos Roberto Martins Castro</h1>
-<h3 align="center">A passionate about by Data, Data Analytics, Data Science, and Data Engineering</h3>
+<h3 align="center">A passionate about by Data, Data Analytics, Data Science, and Data Engineering, using Data Insights to Solve Business Problems</h3>
 
 - 🔭 I’m currently working on data analyst anda data science [Free Lancer Projects](confidential)
 
